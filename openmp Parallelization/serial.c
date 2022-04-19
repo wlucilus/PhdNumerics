@@ -1,6 +1,6 @@
  #include <omp.h>
  #include <stdio.h>
- #define N 2000
+ #define N 1000
 
  int main(int argc, char *argv[]) {
 
