@@ -26,4 +26,4 @@ time ./parallel.out
 
 
 ### Tips
-To ensure multiple processor are being used use "htop" (linux) or "task manager" (windows)
+To ensure multiple processors cores are being used monitor code execution with "htop" (linux) or "task manager" (windows)
