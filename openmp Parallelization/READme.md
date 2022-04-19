@@ -9,6 +9,6 @@ time ./serial.out
 time ./parallel.out
  
  
-##Syllabus
+##Syllabus  
 -lm ? math library to account for mathematicam function: cos(), sin(), atan() ...etc.  
 -fopenmp ? Flag to the compiler to interpret openmp codes
