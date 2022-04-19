@@ -18,8 +18,12 @@ gcc parallelSections.c -o parallelSections.out -fopenmp -lm
 ## How to measure performance time while running the code (linux terminal)
 time ./serial.out  
 time ./parallel.out
- 
+
  
 ## Syllabus  
 -lm ? math library to account for mathematicam function: cos(), sin(), atan() ...etc.  
 -fopenmp ? Flag to the compiler to interpret openmp codes
+
+
+### Tips
+To ensure multiple processor are being used use "htop" (linux) or "task manager" (windows)
