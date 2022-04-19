@@ -14,10 +14,14 @@ int main(int argc, char *argv[]) {
    }
 
 
-	//shared(a,b,c,d)
+   	
+   //shared(a,b,c,d)
+	
+   //enter parallel environment	
    #pragma omp parallel 
    {
 
+   //each section will be executed in a different thead with its own private variable i,j,k,
    #pragma omp sections  private(i,j,k)  nowait
      {
 
