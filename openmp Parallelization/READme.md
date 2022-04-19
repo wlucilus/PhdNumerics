@@ -2,7 +2,7 @@
 gcc serial.c -o serial.out -lm
 
 ## How to compile the parallel code (linux based)
-gcc parallel.c -o parallel.out -fopenmp -lm
+gcc parallelSections.c -o parallelSections.out -fopenmp -lm
 
 ## How to measure performance time while running the code (linux terminal)
 time ./serial.out  
