@@ -1,7 +1,7 @@
 # Description
 Two codes:   
 + One that computes some costly matrix operations in serial manner (1 processor 1 thread) 
-+ One that computes some costly matrix operations in parallel manner (1 processor 1 thread) 
++ One that computes some costly matrix operations in parallel manner (1 processor 2 thread) 
 
 Main resources  
 https://computing.llnl.gov/tutorials/openMP/
