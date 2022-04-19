@@ -21,8 +21,8 @@ time ./parallel.out
 
  
 ## Syllabus  
--lm ? math library to account for mathematicam function: cos(), sin(), atan() ...etc.  
--fopenmp ? Flag to the compiler to interpret openmp codes
+-lm ? math library to account for mathematical functions (linux): cos(), sin(), atan() ...etc.  
+-fopenmp ? Flag to enforce the compiler to interpret openmp syntax
 
 
 ### Tips
